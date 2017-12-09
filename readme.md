@@ -1,5 +1,6 @@
-## React Webpack Bootstrap Template
+# React Webpack Bootstrap Template
 
+## Introduction
 This template serves as a starting point for a new react project
 
 It contains:
@@ -9,16 +10,19 @@ It contains:
 * SASS
 * Hot reloading
 
+## Install
 Install packages
 
 ``npm install``
 
+## Development
 To run local server
 
 ``npm run start``
 
 View in browser: `localhost:8080`
 
+## Production
 To build production
 
 ``npm run build``
